@@ -1,0 +1,178 @@
+id,parent,topic_name
+2,0,Topik Khusus
+3,0,Reformasi Birokrasi dan Tata Kelola
+4,0,Pendidikan
+5,0,Kesehatan
+6,16,Pengentasan Kemiskinan
+7,0,Pertanian
+8,0,Infrastruktur
+9,15,"Perdagangan, Perindustrian, Iklim Usaha, dan Investasi"
+10,0,Energi dan Sumber Daya Alam
+11,0,Lingkungan Hidup dan Penanggulangan Bencana
+12,0,"Pembangunan Desa, Daerah Tertinggal, Terdepan, Terluar, dan Transmigrasi"
+13,3,Teknologi Informasi dan Komunikasi
+14,0,"Bidang Politik, Hukum, dan Keamanan"
+15,0,Bidang Perekonomian
+16,0,Bidang Kesejahteraan Rakyat
+22,14,Korupsi
+99,0,SMS
+110,0,Topik Lainnya
+111,11,Kehutanan
+112,3,Penyerapan Anggaran
+113,114,Banjir Jakarta 2013
+114,0,Situasi Khusus
+115,114,Implementasi Kebijakan Penyesuaian BBM 2013
+116,115,Bantuan Langsung Sementara Masyarakat (BLSM)
+117,115,Bantuan Siswa Miskin (BSM)
+118,115,Program Keluarga Harapan (PKH)
+119,115,Beras Miskin (Raskin)
+120,115,Implementasi Penyesuaian Harga BBM
+121,115,Kelangkaan BBM
+122,115,Keamanan dan Ketertiban Masyarakat
+123,115,Kepesertaan KPS
+124,115,Kepesertaan Non-KPS
+125,115,Kompensasi Lainnya
+126,115,Jamkesmas
+127,114,Banjir Jakarta
+128,129,Pelayanan Administrasi
+129,5,BPJS Kesehatan
+130,175,Pelayanan Medis Non Obat
+131,175,Pelayanan Non Medis
+132,129,Iuran
+133,129,Pelayanan Obat
+134,4,Perundungan (Bullying)
+135,114,Kartu Keluarga Sejahtera (KKS)
+136,135,Kepesertaan - Kartu & Non Kartu
+138,135,Penyelewengan
+139,135,Jadwal / Waktu
+140,135,Informasi Umum
+141,135,Kartu Indonesia Pintar (KIP)
+142,135,Kartu Indonesia Sehat (KIS)
+145,135,Kepesertaan Baru
+146,135,Permasalahan
+147,135,Layanan Keuangan Digital (LKD)
+148,0,Kemaritiman
+149,3,Administrasi Kependudukan
+150,3,Pertanahan dan Permukiman
+151,3,Pajak
+152,3,Bea dan Cukai
+153,3,Imigrasi
+154,3,Pemasyarakatan
+155,3,Kepolisian
+156,3,Perhubungan
+157,3,Kepegawaian
+158,3,Ketenagakerjaan
+159,15,Perekonomian
+160,15,Perbankan
+162,3,Haji dan Umrah
+163,3,Layanan Air Minum
+164,3,Layanan Pos
+165,4,Pendidikan Dasar dan Menengah (Dikdasmen)
+166,4,Pendidikan Tinggi (Dikti)
+167,4,Kebudayaan dan Pariwisata
+168,10,Pertambangan
+169,10,Listrik
+170,14,Polhukam
+172,11,Lingkungan Hidup
+173,11,Penanggulangan Bencana
+174,10,Migas
+175,129,Pelayanan Kesehatan
+176,128,Pendaftaran peserta di Kantor Cabang
+177,128,Pendaftaran Badan Usaha
+178,128,Kendala aplikasi e-DABU
+179,128,Pendaftaran online
+180,128,Pendaftaran di bank yang bekerjasama
+181,128,Konten Webiste
+182,128,Antrian Peserta
+183,175,Pelayanan di FKTP
+184,175,Pelayanan di FKRTL
+185,133,Obat Kosong
+186,133,Pembatasan jumlah obat
+187,133,Biaya Obat
+188,132,Tidak bisa membayar iuran
+189,132,Tagihan iuran tidak sesuai
+190,132,Denda iuran
+191,132,Penundaan pembayaran iuran
+192,132,Pembayaran tidak masuk dalam sistem BPJS Kesehatan
+193,132,Kesalahan pembayaran iuran
+194,176,Percaloan
+195,176,Pelayanan tidak ramah
+196,176,Penolakan cetak kartu
+197,176,Sarana Informasi tidak dapat diakses
+198,176,Lamanya proses pendaftaran
+199,176,Persyaratan administrasi tidak standar
+200,176,Sikap petugas tidak profesional
+201,176,Status Kepesertaan tidak aktif
+202,176,Data yang di input petugas tidak sesuai dengan berkas yang dibawa peserta
+203,177,Migrasi tidak berhasil
+204,177,Kendala entri pendaftaran anggota keluarga tambahan ( Anak ke 4 dst)
+205,177,Mutasi tambah kurang
+206,178,Koneksi lambat
+207,178,Kendala entri data WNA pada aplikasi e-DABU dan aplikasi migrasi
+208,178,Username dan Password yang diberikan Bag. Pemasaran tidak dapat digunakan
+209,179,Email notifikasi Gagal Kirim
+210,179,Tidak mendapatkan email notifikasi
+211,179,Link Virtual acount tidak keluar
+212,179,Virtual Acount Kosong
+213,179,Link e-id tidak muncul
+214,179,E-id Kosong
+215,179,Koneksi Lambat
+216,179,Error
+217,179,tidak bisa mengisi kolom kelurahan
+218,179,NIK sudah terdaftar
+219,179,Gagal Aktivasi
+220,179,Nomor Kartu Keluarga tidak ditemukan
+221,179,Ketidaksesuaian kelas yang sudah dipilih peserta dengan yang tercetak di e-ID
+222,180,Pendaftaran Peserta tidak dapat dilaksanakan
+223,180,Sikap petugas tidak profesional
+224,180,Pengenaan biaya tambahan
+225,181,Daftar faskes kurang/tidak update
+226,181,tampilan website kurang menarik
+227,182,Antrian pendaftaran Kartu
+228,182,Antrian pelayanan di FKTP/FKRTL
+229,183,Dokter tidak ada
+230,183,Jam Praktek tidak sesuai PKS
+231,183,Iur Biaya
+232,183,Pelayanan tidak dijamin
+233,183,Persalinan
+234,183,Rujukan
+235,183,E-ID tidak berlaku
+236,183,pelayanan dokter yang kurang profesional
+237,183,Pelayanan tidak oleh dokter
+238,183,Pelayanan tidak sesuai dengan benefit
+239,183,Penolakan peserta
+240,184,Penolakan Peserta
+241,184,Pembatasan Pasien di Poliklinik
+242,184,Iur Biaya
+243,184,Pembayaran UGD di Non Provider oleh peserta
+244,184,Kamar Penuh
+245,184,Rujukan Parsial
+246,184,Ruang ICU/ICCU/NICU/PICU tidak tersedia
+247,184,Pembatasan jam pelayanan
+248,184,Pembatasan hari rawat
+249,184,Persalinan
+250,184,Pembatasan rujukan internal
+251,184,Readmisi
+252,184,Tidak adanya petugas BPJS Center
+253,184,E-ID tidak berlaku
+254,184,Rujuk Balik tidak berjalan
+255,184,Pelayanan berulang/re admission
+256,184,Penetapan plafon biaya
+257,184,Membayar tunai di faskes non provider (pelayanan UGD)
+258,185,Obat diluar e-katalog
+259,185,Stock obat Apotek-IFRS
+260,186,Diluar Retriksi
+261,186,Obat kronis
+262,187,Obat diluar Fornas
+263,187,Obat beli sendiri diluar Apotek-IFRS
+264,188,ATM bank eror
+265,188,Virtual acount tidak ditemukan
+266,188,Penolakan pembayaran iuran melalui bank secara tunai
+267,189,Terbentuk beberapa kali tagihan dalam 1 bulan
+268,189,Tagihan 1 tahun
+269,189,Double Pembayaran iuran
+270,190,Denda tidak tertagihkan
+271,193,kelebihan jumlah pembayaran
+272,193,salah tujuan pembayaran
+273,0,Kritik/Saran untuk LAPOR!
+274,16,Pemberdayaan Masyarakat

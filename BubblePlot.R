@@ -10,7 +10,7 @@ symbols(data$APBN,
         circles=data$TOTAL, 
         inches = 0.4,
         fg="white",
-        bg="red",
+        bg="blue",
         xlab="APBD",
         ylab="APBN",
         main = "Realisasi APBD");

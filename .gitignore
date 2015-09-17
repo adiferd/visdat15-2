@@ -1,4 +1,5 @@
 .Rapp.history
+.RData
 .Rhistory
 .gitignore
 .DS_Store

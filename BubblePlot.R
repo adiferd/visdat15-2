@@ -1,17 +1,14 @@
 setwd("/Users/adiferdian/Documents/Studi/Semester 3/Visualisasi Data/Tugas/visdat15-2");
 library(rjson);
-
-
-#data <- fromJSON(file="Data/statistik.json");
-data <- read.csv("~/Documents/Studi/Semester 3/Visualisasi Data/Tugas/visdat15-2/Data/apbd2015.csv", sep=";")
-#radius <- sqrt( data$TOTAL/ pi );
-symbols(data$APBN, 
-        data$APBD,
-        circles=data$TOTAL, 
+data <- read.csv("~/Documents/Studi/Semester 3/Visualisasi Data/Tugas/visdat15-2/Data/pegawaiNegeri.csv")
+symbols(data$Laki.Laki, 
+        data$Perempuan,
+        circles=data$Jumlah, 
         inches = 0.4,
         fg="white",
-        bg="blue",
-        xlab="APBD",
-        ylab="APBN",
-        main = "Realisasi APBD");
-text(data$APBN, data$APBD, data$DESA, cex=0.5);
+        bg="gray",
+        xlab="Laki-laki",
+        ylab="Perempuan",
+        main = "
+Jumlah Pegawai Negeri Sipil Menurut Provinsi 2014");
+text(data$Laki.Laki, data$Perempuan, data$Propinsi, cex=0.5);

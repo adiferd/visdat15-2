@@ -2,11 +2,12 @@ setwd("/Users/adiferdian/Documents/Studi/Semester 3/Visualisasi Data/Tugas/visda
 library(RColorBrewer);
 library(portfolio);
 library(rjson);
-
+source("treemapbrewer.R");
 streamlaporan <- read.csv('Data/streamlaporan.csv');
-
-
 map.market(id    = streamlaporan$TrackingID,
            area  = streamlaporan$KategoriID,
            group = streamlaporan$Area,
-           color = 10 * streamlaporan$KategoriID);
+           color = streamlaporan$KategoriID,
+           lab = c(TRUE, FALSE), 
+           main  = "TreeMap Laporan",
+           );

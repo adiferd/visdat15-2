@@ -8,6 +8,6 @@ map.market(id    = streamlaporan$TrackingID,
            area  = streamlaporan$KategoriID,
            group = streamlaporan$Area,
            color = streamlaporan$KategoriID,
-           lab = c(TRUE, FALSE), 
+           lab = c(TRUE, TRUE), 
            main  = "TreeMap Laporan",
            );

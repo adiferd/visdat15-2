@@ -11,11 +11,6 @@ E(data) #prints the list of edges (relationships)
 degree(data) #print the number of edges per vertex (relationships per people)
 
 
-library(rjson)
-sink("padi.json")
-cat(toJSON(padi2013))
-sink()
-
 
 #plot(data)
 
